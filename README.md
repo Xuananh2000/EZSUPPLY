@@ -1,3 +1,3 @@
 # EZSUPPLY
-EZSUPPLY_Landing
-npm install
+# EZSUPPLY_Landing
+# npm install
