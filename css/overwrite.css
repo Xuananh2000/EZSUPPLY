@@ -71,3 +71,13 @@ body {
   box-shadow: none;
   outline: none;
 }
+
+.custom-img {
+  height: 20em!important;
+}
+.custom-img-sub {
+  height: 10em!important;
+}
+.fit-contain {
+  width: fit-content;
+}
